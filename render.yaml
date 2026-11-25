@@ -9,4 +9,4 @@ services:
       - key: PYTHON_VERSION
         value: 3.12.8
       - key: DATABASE_PATH
-        value: /var/data/queueflow.db
+        value: /tmp/queueflow.db
